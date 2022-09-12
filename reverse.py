@@ -11,4 +11,5 @@ def reverse(text):
 
 if __name__ == '__main__':
     text = "HelloWorld!"
-    reverse(text)
+    result= reverse(text)
+    print(result)

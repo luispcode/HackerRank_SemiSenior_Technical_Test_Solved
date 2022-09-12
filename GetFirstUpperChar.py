@@ -18,4 +18,5 @@ def getFirstUpperChar(text):
 
 if __name__ == '__main__':
     text = "helloWorld"
-    getFirstUpperChar(text)
+    output = getFirstUpperChar(text)
+    print(output)

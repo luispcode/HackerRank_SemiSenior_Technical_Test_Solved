@@ -17,4 +17,5 @@ def suma(n):
 
 
 if __name__ == '__main__':
-    result = suma(1)
+    result = suma(5)
+    print(result)
